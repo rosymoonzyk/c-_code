@@ -1,1 +1,1 @@
-# c-c-_code
+//Practice notes during some learning processes
